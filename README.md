@@ -10,5 +10,5 @@ Make a clone of your forked repository, run `npm install` and then run the `npm 
 # Author
 - Hiago Silva Souza <<hiasilva@gmail.com>>
 
-# Licence
+# License
 This project is distributed over the MIT license.
