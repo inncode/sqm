@@ -1,0 +1,21 @@
+{
+  "name": "@inncode/sqm",
+  "version": "1.0.0",
+  "description": "Write MangoQuery using SQL Sintax",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "ts-node index.ts",
+    "test": "mocha -r ts-node/register src/**/*.spec.ts"
+  },
+  "author": "Hiago Silva Souza <hiasilva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.3",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^6.1.2",
+    "typescript": "^2.9.2"
+  }
+}
